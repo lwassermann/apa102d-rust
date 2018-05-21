@@ -1,0 +1,5 @@
+num_leds: 120
+num_cols: 1
+max_current: 5000
+max_current_segment: 1200
+max_current_segment_size: 60

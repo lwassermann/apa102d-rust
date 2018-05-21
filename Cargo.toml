@@ -1,0 +1,6 @@
+[package]
+name = "apa102d-rust"
+version = "0.1.0"
+authors = ["Lars Wassermann <lars.wassermann@googlemail.com>"]
+
+[dependencies]
