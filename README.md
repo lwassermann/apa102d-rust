@@ -19,7 +19,6 @@ This is a version of [apa102d](https://github.com/schoeppel/apa102d) written in 
 - This project uses [`rustfmt`](https://github.com/rust-lang-nursery/rustfmt) for formating the sources (`cargo fmt`)
 
 ## Next steps
-* [ ] Cross-compile for the linux target
 * [ ] Get a light to show up
 * [ ] Receive an mqtt message
 * [ ] Implement the test effect
